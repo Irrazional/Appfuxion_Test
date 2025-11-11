@@ -23,7 +23,7 @@ def inference():
         
         text= response["message"]["content"]
     except Exception as e:
-        return jsonify({"error": "INference failed", "details": str(e)}), 500
+        return jsonify({"error": "Inference failed", "details": str(e)}), 500
     return jsonify({
         "model": MODEL_NAME_2,
         "prompt": prompt,
