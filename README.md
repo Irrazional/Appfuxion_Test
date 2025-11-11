@@ -1,5 +1,4 @@
-> Appfuxion Take Home Test
-> Michael Joshua Kusnadi
+> Appfuxion Take Home Test - Michael Joshua Kusnadi
 
 # LLM Inference with Flask API
 
